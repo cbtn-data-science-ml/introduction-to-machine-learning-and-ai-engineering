@@ -1,0 +1,9 @@
+delivery_distance_miles,departure_hour,payload_weight_lb,flight_duration_min
+1.5,7,2.0,6.5
+3.0,9,1.5,9.5
+4.5,11,3.0,13.0
+6.0,13,2.5,16.0
+7.5,15,4.0,20.0
+9.0,17,3.5,23.5
+11.0,19,5.0,28.0
+13.0,21,4.5,32.5
